@@ -328,7 +328,7 @@ section.animate {
     0% {
         clip: rect(89px, 9999px, 46px, 0);
         transform: skew(0.66deg);
-    }
+    }    /*a*/
     100% {
         clip: rect(14px, 9999px, 56px, 0);
         transform: skew(0.07deg);
@@ -370,7 +370,7 @@ section.animate {
     display: flex;
     gap: 1rem;
     margin-top: 2rem;
-}
+}/*r*/
 
 .hero-image {
     flex: 1;
@@ -434,14 +434,16 @@ section.animate {
     display: flex;
     gap: 3rem;
     align-items: center;
-}
+}/*u*/
 
 .about-text {
     flex: 1;
+    /*valla*/
 }
 
 .about-text p {
     margin-bottom: 1.8em;
+        /*panikkum*/
 }
 
 .about-stats {
@@ -449,17 +451,20 @@ section.animate {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
+        /*poyi*/
 }
 .stat-box i {
     font-size: 2rem;
     color: var(--accent);
+        /*swayame*/
 }
 
 .stat-info h3 {
     font-size: 2rem;
     margin-bottom: 0;
     color: var(--text-primary);
-}
+        /*undaakkada*/
+}/*n*/
 
 .stat-info p {
     margin-bottom: 0;
@@ -571,7 +576,7 @@ section.animate {
     margin-bottom: 0;
 }
 
-/* Projects Section */
+/* Projects Section @run*/
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
