@@ -1,4 +1,4 @@
-# 🚀 Arun K Biju - Personal Portfolio Website
+# Arun K Biju - Personal Portfolio Website
 
 Welcome to the **official portfolio repository** of **Arun K Biju** – a Full Stack Developer, Ethical Hacker, and budding Game Developer. This website is a reflection of my journey, passion, and capabilities in web development, cybersecurity, and creative tech building.
 
