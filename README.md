@@ -44,12 +44,6 @@ It showcases:
 
 ---
 
-## 📁 Folder Structure
-
-My-Portfolio/ │ ├── index.html # Main HTML File ├── styles.css # Custom Styles ├── photos/ # Profile photo, certificate images, etc. ├── project-gallery/ # Screenshots of projects ├── resume/ # PDF resume └── README.md # You're here!
-
----
-
 ## 📬 Contact Me
 
 Have questions, suggestions, or just want to connect?
