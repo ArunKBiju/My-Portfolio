@@ -1,67 +1,72 @@
-# Arun K Biju - Personal Portfolio Website
+# ⭐ Arun K Biju – Personal Portfolio Website
 
-Welcome to the **official portfolio repository** of **Arun K Biju** – a Full Stack Developer, Ethical Hacker, and budding Game Developer. This website is a reflection of my journey, passion, and capabilities in web development, cybersecurity, and creative tech building.
+Welcome to the personal portfolio of **Arun K Biju** — Full Stack Developer, creative technologist, and frontend enthusiast. This site is a showcase of my journey, skills, and projects, built with a strong focus on responsive design, smooth animations, and expressive UI.
 
-🌐 **Live Demo:** [arunkbiju.github.io/My-Portfolio](https://arunkbiju.github.io/My-Portfolio/)
-
----
-
-## 📌 About
-
-This is a **fully responsive** portfolio website built using HTML5 and CSS3. The design combines modern UI elements with subtle animations to deliver an engaging and user-friendly experience.
-
-It showcases:
-- My journey and background
-- Key skills in full stack development, security, and game dev
-- Projects across multiple domains (real-time apps, event platforms, security tools)
-- Certifications and achievements
-- Gallery of past work and app UI
-- Contact and resume access
+🔗 **Live Site:** [https://arunkbiju.github.io/My-Portfolio/](https://arunkbiju.github.io/My-Portfolio/)
 
 ---
 
-## 🛠️ Tech Stack
+## Overview
 
-- **Frontend:** HTML5, CSS3
-- **Design Principles:** Responsive Design, Dark Theme, Animations, Custom Cursor, Glitch Effects
-- **Deployment:** [GitHub Pages](https://pages.github.com/)
-- **Fonts & Icons:** Google Fonts, Font Awesome
-- **Performance:** Optimized for mobile & desktop, smooth scroll, and lazy animations
+This portfolio combines handcrafted HTML, CSS, and JavaScript with carefully chosen libraries to deliver a polished, interactive experience. It reflects my passion for building visually engaging websites that are both functional and memorable.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔥 Animated Hero Section with Typewriter Effect & Glitch Heading  
-- 💼 Project Showcases with Status Tags & Links  
-- 🧠 About Section with Technical Stack & Tools Used  
-- 📃 Certificate Gallery with Hover Effects  
-- 🖼️ Project Gallery Screenshots  
-- 📬 Contact Section with Socials, Email, and WhatsApp  
-- 🎯 Custom Cursor with Hover Reactions  
-- 🔝 Back-to-top Smooth Scroll Button  
-- 📱 Mobile Navigation Menu with Burger Toggle
-
----
-
-## 📬 Contact Me
-
-Have questions, suggestions, or just want to connect?
-
-📸 **Instagram:** [@arun._.chronicles](https://www.instagram.com/arun._.chronicles/)  
-📧 **Email:** [arunkbijuofficial@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=arunkbijuofficial@gmail.com&su=Let's%20Chat&body=Hi,%20I%20would%20love%20to%20connect%20with%20you.%20Looking%20forward%20to%20your%20response.)
-Let’s collaborate, create, and build something awesome! 🤝
+- Fully responsive layout across devices  
+- Animated hero section with glitch and typewriter effects  
+- Custom cursor with hover reactions  
+- Smooth scroll and back-to-top navigation  
+- Project showcases with live links and status tags  
+- Certificate gallery with hover transitions  
+- UI screenshots and design previews  
+- Mobile navigation menu with burger toggle  
+- Scroll-triggered effects and transitions
 
 ---
 
-## ❌ License & Usage Notice
+## Tech Stack
 
-This project is **not open source**.
-
-You are **not permitted to copy, fork, download, or reuse** any part of this codebase **without explicit permission** from the author.
-
-All rights reserved © 2025 **Arun K Biju**.
-
-If you admire the design or want something similar, feel free to reach out on Instagram or email. I'm always open to sharing knowledge or working together.
+- **HTML5** – Semantic structure and accessibility  
+- **CSS3** – Responsive design, animations, dark theme  
+- **JavaScript** – Interactivity and scroll logic  
+- **Libraries Used:** Font Awesome, Google Fonts, and other lightweight animation tools  
+- **Deployment:** GitHub Pages
 
 ---
+
+## Notes
+
+> This site is fully functional on desktop and mobile devices.  
+> Libraries were used selectively to enhance design and performance while maintaining creative control.
+
+---
+
+## Screenshot
+
+![Portfolio Screenshot](https://github.com/user-attachments/assets/78b75c5c-8c58-4d31-9d07-418cd407ba25)
+
+---
+
+## Contact
+
+Want to connect or collaborate?
+
+📧 Email: [arunkbijuofficial@gmail.com](mailto:arunkbijuofficial@gmail.com)  
+📸 Instagram: [@arun._.chronicles](https://www.instagram.com/arun._.chronicles/)  
+🔗 LinkedIn: [https://www.linkedin.com/in/arun-k-biju](https://www.linkedin.com/in/arun-k-biju)
+
+Let’s build something bold and brilliant.
+
+---
+
+## License & Usage Notice
+
+This repository is not open-source.
+
+You are not permitted to copy, fork, download, or reuse any part of the code, design, or assets from this project without prior consent.
+
+All rights reserved © 2025 Arun K Biju.
+
+If you admire the design or want something similar, feel free to reach out. I'm always open to sharing ideas or collaborating on creative builds.
