@@ -29,4 +29,3 @@
     console.error("Logging failed:", error);
   }
 })();
-
